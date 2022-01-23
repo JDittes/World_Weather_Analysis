@@ -3,7 +3,7 @@ config.py
 Vacation_Search/config.py
 Vacation_Itinerary/config.py
 Weather_Data/config.py
-/blob/main/Weather_Database/config.py
+Weather_Database/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
